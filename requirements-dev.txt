@@ -1,0 +1,5 @@
+-r requirements-ci.txt
+-r requirements-production.txt
+pytest-pudb
+ipython
+

@@ -1,0 +1,4 @@
+#! /bin/bash
+
+gunicorn --workers 1 -t99999 --reload --bind :8084 jaguar_wsgi:app
+

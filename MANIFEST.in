@@ -1,0 +1,3 @@
+include jaguar/alembic.ini
+include jaguar/migration/*.py
+include jaguar/migration/versions/*.py

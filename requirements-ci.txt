@@ -1,0 +1,6 @@
+coverage
+coveralls
+pytest-cov
+pytest-aiohttp
+-r requirements-private.txt
+
